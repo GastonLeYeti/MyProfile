@@ -47,6 +47,9 @@ a {
     transition: .55s;
   }
 .img-circle {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
   border-radius: 50%;
 }
 .list-inline {
